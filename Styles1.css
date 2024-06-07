@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+
+header {
+    background-color: rgb(24, 4, 20);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+    text-decoration: none;
+
+    font-weight: bold;
+}
+
+nav ul li a {
+    color: ;
+    text-decoration: none;
+}
+
+#hero {
+    background-color: ;
+    padding: 2rem;
+    text-align: center;
+}
+
+#hero button {
+    background-color:green;
+    color: black;
+    border: none;
+    padding: 1rem 2rem;
+    cursor: pointer;
+}
+
+#features {
+    padding: 2rem;
+    background-color;
+}
+
+footer {
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    padding-left: 10%;
+    margin: auto;
+    height: 70px;
+    width: auto;
+}
